@@ -1,0 +1,27 @@
+{
+  "businessApplicationId": "AA",
+  "sourceOfFunds": "04",
+  "retrievalReferenceNumber": "330000550000",
+  "cardAcceptor": {
+    "idCode": "VMT200911086070",
+    "address": {
+      "county": "081",
+      "country": "USA",
+      "state": "CA",
+      "zipCode": "94404"
+    },
+    "name": "Acceptor 9",
+    "terminalId": "365539"
+  },
+  "acquirerCountryCode": 840,
+  "amount": 100,
+  "cardCvv2Value": "999",
+  "feeProgramIndicator": "123",
+  "senderAccountNumber": "4895142232120006",
+  "acquiringBin": 408999,
+  "senderPrimaryAccountNumber": "4895142232120006",
+  "localTransactionDateTime": "2018-12-09T04:28:15Z",
+  "senderCardExpiryDate": "2020-03",
+  "systemsTraceAuditNumber": 451001,
+  "senderCurrencyCode": "USD"
+}

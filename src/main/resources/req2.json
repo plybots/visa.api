@@ -1,0 +1,23 @@
+{
+  "method": "POST",
+  "url": "https://sandbox.api.visa.com/pav/v1/cardvalidation",
+  "headers": {
+    "Accept": [
+      "application/json"
+    ],
+    "Content-Type": [
+      "application/json"
+    ],
+    "Authorization": [
+      "Basic OENDQlVVUTBKNEtHRTJHNDM1V1IyMXVhSzRSSUF0RGlsVG9XbXItR003aTlDR1BnZzpJaUpqV1BjZUxGck1vcnEw"
+    ],
+    "User-Agent": [
+      "Java-SDK"
+    ]
+  },
+  "body": {
+    "cardCvv2Value": "999",
+    "cardExpiryDate": "2020-10",
+    "primaryAccountNumber": "4957030420210454"
+  }
+}
